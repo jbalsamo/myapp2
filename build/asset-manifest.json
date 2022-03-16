@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c2ab547.css",
+    "main.js": "/static/js/main.f449c447.js",
+    "static/js/787.856a2c82.chunk.js": "/static/js/787.856a2c82.chunk.js",
+    "static/media/wolflogo.jpeg": "/static/media/wolflogo.9c9d0e9f2b14a87309db.jpeg",
+    "index.html": "/index.html",
+    "main.4c2ab547.css.map": "/static/css/main.4c2ab547.css.map",
+    "main.f449c447.js.map": "/static/js/main.f449c447.js.map",
+    "787.856a2c82.chunk.js.map": "/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2ab547.css",
+    "static/js/main.f449c447.js"
+  ]
+}
